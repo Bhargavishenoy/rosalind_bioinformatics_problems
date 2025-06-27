@@ -1,4 +1,4 @@
-"""Hamming distance is a measure of the difference between two strings of equal length. It counts the number of positions at which the corresponding characters are different."""
+#Hamming distance is a measure of the difference between two strings of equal length. It counts the number of positions at which the corresponding characters are different.
 
 def Hamming_distance(data):
     lines = data.strip().splitlines()
