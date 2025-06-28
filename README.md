@@ -1,6 +1,3 @@
-# rosalind_bioinformatics_problems
-Solutions to bioinformatics problems from the Rosalind platform using Python. Includes well-commented code and explanations for learning and revision.
-
 # Rosalind Bioinformatics Problems 🧬
 
 This repository contains my solutions to bioinformatics problems from [Rosalind](http://rosalind.info/), a platform for learning bioinformatics through problem solving.
